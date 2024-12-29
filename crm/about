@@ -1,0 +1,1 @@
+A CSRF token protects web apps from Cross-Site Request Forgery by verifying requests with a unique session token. In Django, {% csrf_token %} or headers ensure safe POST, PUT, DELETE, or PATCH actions.
